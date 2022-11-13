@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2022-11-13
+img: purikura.jpg
+alt: image-alt
+project-date: 2022 November
+client:
+category: Entertainment
+description: Start a carrer as a VTuber
+---

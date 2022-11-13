@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: b08dec
+  primary-rgb: "176, 141, 236"
+  secondary: 603d9c
+  secondary-dark: 563392
 
 # Footer settings
 footer:
@@ -44,11 +44,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Somewhere in the Universe. The sky is filled with fluffy cotton candy clouds.
+  - line: The air even smells like strawberries here.
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: "The image and VTuber model, is from https://galverse.art ."
 
 # Build settings
 markdown: kramdown
